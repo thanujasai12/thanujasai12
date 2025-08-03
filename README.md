@@ -1,6 +1,6 @@
 ## Hi, I'm Thanuja Sai! 👋
 
-🎓 *B.Tech CSE (AI) Student | Full-Stack Web Developer | GDSC Lead | GDG Core Team*
+🎓 *B.Tech CSE (AI) Student | Full-Stack Web Developer | GDG Lead | GDSC Core Team*
 
 Passionate about building impactful tech products, solving real-world problems, and exploring the intersections of AI and web development. Currently diving deep into full-stack Java development and cloud technologies.
 
@@ -19,8 +19,9 @@ Passionate about building impactful tech products, solving real-world problems, 
 
 ### 📊 GitHub Stats
 
-![Thanuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lekkalathanuja&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lekkalathanuja&layout=compact&theme=radical)
+![Thanuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanujasai12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanujasai12&layout=compact&theme=radical)
+
 
 ---
 
